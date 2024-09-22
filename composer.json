@@ -1,0 +1,15 @@
+{
+    "name": "conta/p1-dwii",
+    "autoload": {
+        "psr-4": {
+            "Conta\\P1Dwii\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevyn-Cavalcanti",
+            "email": "contacontaconta0002@gmail.com"
+        }
+    ],
+    "require": {}
+}
